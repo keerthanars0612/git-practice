@@ -1,3 +1,4 @@
 Day 1: Learning Git
 This is my first commit
-I tried to do the changes in github
+I tried to do the changes in GitHub
+I am changing in the branch now 
